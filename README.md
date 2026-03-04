@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # learningApp
 
 learningApp нь шинээр сурсан зүйлээ бүртгэж, **forgetting curve** загвараар давтах өдрүүдийг календар дээр харуулдаг Expo (React Native) апп юм.
@@ -25,3 +26,10 @@ Expo асаасны дараа:
 
 - `App.js` — UI, forgetting curve тооцоолол, хадгалалт, календар.
 - `package.json` — Expo болон dependency тохиргоо.
+=======
+# Learning App
+
+Энэ нь `read.me` файлын үндсэн агуулгатай ижил **Монгол хэл дээрх** гарын авлага юм.
+
+Дэлгэрэнгүйг `read.me` файлаас үзнэ үү.
+>>>>>>> origin/main
